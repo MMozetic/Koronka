@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "213537776001",
+    "firebase_url": "https://koronkagame.firebaseio.com",
+    "project_id": "koronkagame",
+    "storage_bucket": "koronkagame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213537776001:android:a77c6b8e7f5d02115f4880",
+        "android_client_info": {
+          "package_name": "com.Game.Koronka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213537776001-4d5r758d9r547kbvh2bu5vhagb0l99jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWL6X1oEinmkkrbAcbWbyBiENeSiahAhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213537776001-4d5r758d9r547kbvh2bu5vhagb0l99jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
